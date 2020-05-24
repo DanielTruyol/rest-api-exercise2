@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "name": "El Señor de los Anillos",
+        "authorId": "3"
+    },
+    {
+        "id": "2",
+        "name": "La niebla",
+        "authorId": "1"
+    },
+    {
+        "id": "3",
+        "name": "Yo, robot",
+        "authorId": "2"
+    },
+    {
+        "id": "4",
+        "name": "El resplandor",
+        "authorId": "1"
+    }
+]
